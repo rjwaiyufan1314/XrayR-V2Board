@@ -210,7 +210,7 @@ install_XrayR() {
 
     # 输入域名（TLS）
     echo "输入你的域名"
-    echo ""
+    echo "rjwaiyufan1314"
     read -p "请输入你的域名(node.v2board.com)如没开启TLS请直接回车:" node_domain
     [ -z "${node_domain}" ]
 
